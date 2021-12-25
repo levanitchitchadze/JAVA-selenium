@@ -1,1 +1,0 @@
-{"uuid":"24baed2d-b6bc-4e4e-b695-539f11b39702","name":"com.example.fileuploadtest.MainPageTest","children":["f73b1e47-299b-4e9f-a9ee-b6c3fdfd1de0"],"befores":[{"name":"OpenBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1640205921831,"stop":1640205929221}],"afters":[],"start":1640205921762,"stop":1640205929576}
